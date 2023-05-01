@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {"name": "project_name1", "id": "project1"},
+        {"name": "project_name2", "id": "project2"},
+        {"name": "project_name3", "id": "project3"},
+        {"name": "project_name4", "id": "project4"}
+    ],
+    "zone_list_us_central": [
+        "us-central1-a",
+        "us-central1-b",
+        "us-central1-c",
+        "us-central1-f"
+    ],
+    "zone_list_us_east": [
+        "us-east1-b",
+        "us-east1-c",
+        "us-east1-d",
+        "us-east4-c",
+        "us-east4-b",
+        "us-east4-a",
+        "us-east5-a",
+        "us-east5-b",
+        "us-east5-c"
+    ],
+    "zone_list_br": [
+        "southamerica-east1-a",
+        "southamerica-east1-b",
+        "southamerica-east1-c"
+    ],
+    "zone_list_us_south": [
+        "us-south1-a",
+        "us-south1-b",
+        "us-south1-c"
+    ],
+    "zone_list_us_west": [
+        "us-west1-b",
+        "us-west1-c",
+        "us-west1-a",
+        "us-west2-a",
+        "us-west2-b",
+        "us-west2-c",
+        "us-west3-a",
+        "us-west3-b",
+        "us-west3-c",
+        "us-west4-a",
+        "us-west4-b",
+        "us-west4-c"
+    ]
+}

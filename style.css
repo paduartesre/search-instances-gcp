@@ -1,0 +1,49 @@
+
+/* Set size and font text */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+/* Set style header */
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Make pre-upload image */
+@import url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E") as dummy;
+
+/* Set style of output */
+ul {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+/* Set the marker style on the first line. */
+li {
+  text-align: left;
+}
+
+/* Set style text of bold */
+strong {
+  font-weight: bold;
+}
+
+/* Set style text of italic */
+em {
+  font-style: italic;
+}
+
+/* Set style of text */
+span.red {
+  color: red;
+}
+
+/* Configuration Logo */
+.logo {
+  text-align: center;
+}
