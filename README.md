@@ -76,3 +76,7 @@ Contributions are welcome! Please read the [contributing guide](CONTRIBUTING.md)
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
+
+## Diagram Solution
+
+![](diagram-search-instances-gcp.png)
